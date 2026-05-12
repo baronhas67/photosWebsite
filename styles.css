@@ -19,6 +19,7 @@ body {
     justify-content: space-around;
     padding: 10px;
     box-shadow: 4px 4px 20px rgb(40, 39, 41);
+    flex-wrap: wrap;
 }
 
 .left-div, .right-div {
@@ -26,10 +27,11 @@ body {
     flex-direction: column;
     justify-content: space-around;
     gap: 40px;
+    flex: 1;
 }
 
 img {
-    width: 800px;
+    max-width: 100%;
     height: auto;
     border-radius: 10px;
 }
