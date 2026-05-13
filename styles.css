@@ -77,6 +77,25 @@ ul {
     color: rgb(0, 0, 0);
 }
 
+.extra-things-div {
+    background-color: rgb(0, 30, 75);
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+#about-us {
+    text-decoration: none;
+    color:aquamarine;
+}
+
+#about-us:hover {
+    color: rgb(0, 202, 135);
+}
+
 .footer {
     height: 100px;
     background-color: rgb(0, 24, 61);
