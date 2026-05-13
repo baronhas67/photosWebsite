@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    color: rgb(189, 171, 9);
+    font-size: 3em;
+}
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 0;
+}
+
+.header {
+    background-color: blue;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.side-andmain {
+    display: flex;
+}
+
+.main-container {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 60px;
+    gap: 60px;
+    justify-content: center;
+}
+
+.side-bar {
+    width: 40%;
+    background-color: black;
+    display: flex;
+    flex-flow: column wrap;
+    padding: 40px;
+}
+
+img {
+    max-width: 800px;
+    width: 100%;
+    height: auto;
+}
+
+.img-containers {
+    width: 40%;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.footer {
+    background-color: brown;
+}
