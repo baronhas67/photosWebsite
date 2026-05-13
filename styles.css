@@ -34,6 +34,7 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
+    box-sizing: border-box;
 }
 
 p {
@@ -45,6 +46,14 @@ p {
 .img-containers {
     background-color: rgba(213, 141, 247, 0.7);
     border-radius: 10px;
+}
+
+.img-containers:hover {
+    background-color: rgba(203, 109, 247, 0.7);
+}
+
+.img-containers:active {
+    color: rgb(119, 0, 255);
 }
 
 .date {
