@@ -115,10 +115,7 @@ ul {
 #about-page-body {
     margin: 0;
     padding: 0;
-    background-image: url("images/pexels-pixabay-33545.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-color: #FADADD;
     max-height: 100vh;
 }
 
@@ -136,13 +133,13 @@ ul {
 }
 
 .a-para-container, .a-main-text {
-    border: 2px solid white;
-    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid #f8b8be;
+    background-color: #ffa5ae;
     border-radius: 20px;
     padding: 20px;
     color: #23405a;
-    backdrop-filter: blur(1px);
     font-size: 18px;
+    box-shadow: 5px 5px 4px black;
 }
 
 
@@ -157,11 +154,10 @@ ul {
 }
 
 .a-img-container {
-    flex-grow: 1;
-    padding: 30px;
-    border-radius: 20px;
-    border: 2px solid rgb(12, 12, 12);
-    background-color: rgba(22, 21, 21, 0.1);
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #f58994;
+    background-color: #f87380;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -183,13 +179,13 @@ ul {
 }
 
 .a-thanks {
-    border: 2px solid #551A8B;
     border-radius: 20px;
     padding: 20px;
-    background-color: #541a8b1a;
+    background-color: #551A8B;
     backdrop-filter: blur(1px);
     color: gold;
     font-size: 20px;
+    box-shadow: 5px 5px 4px black;
 }
 
 .odin-link {
