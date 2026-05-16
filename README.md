@@ -1,6 +1,6 @@
 # photosWebsite
 
-Welcome to the website. This is website where I upload some private photos of
+Welcome to the website. This is a website where I upload some private photos of
 minecraft gameplay. Sometimes it's of me and my cousin.
 
 There is not js here. Only html and css are used. And the photos are private so
@@ -25,6 +25,8 @@ you will have to have a relation with me or my cousin.
 ### Credits
 
 Minecraft is a trademark of Mojang Studios
+
+A huge thanks [_The Odin Project_](https://www.theodinproject.com/) for making this website possible
 
 #### We would like your feedback on design and other things.
 
