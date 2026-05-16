@@ -120,7 +120,8 @@ ul {
 }
 
 .about-heading {
-    color: #FFADAD;
+    color: #6F1119;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .a-section-one {
@@ -139,7 +140,8 @@ ul {
     padding: 20px;
     color: #23405a;
     font-size: 18px;
-    box-shadow: 5px 5px 4px black;
+    box-shadow: 5px 5px 20px #ff6776;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -161,13 +163,14 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 5px 5px 20px #ff6776;
 }
 
 .about-img {
     width: 100%;
     max-width: 400px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .a-section-two {
@@ -185,16 +188,17 @@ ul {
     backdrop-filter: blur(1px);
     color: gold;
     font-size: 20px;
-    box-shadow: 5px 5px 4px black;
+    box-shadow: 5px 5px 20px #551A8B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .odin-link {
-    color: rgb(192, 163, 0);
+    color: rgb(238, 255, 0);
     text-decoration: none;
 }
 
 .odin-link:hover {
-    color: rgb(226, 197, 51);
+    color: rgb(185, 206, 2);
 }
 
 .a-footer {
